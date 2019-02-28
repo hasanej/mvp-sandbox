@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MVP Sandbox</string>
+
+    <string name="placeholder_movie_title">Movie Title</string>
+    <string name="placeholder_movie_release_date">Release Date</string>
+    <string name="placeholder_movie_description">This is movie description.</string>
 </resources>
